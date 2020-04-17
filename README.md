@@ -1,0 +1,2 @@
+# MotionBlurKernelParametersAndRestorationTechnique
+Bachelor Thesis
